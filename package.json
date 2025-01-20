@@ -29,7 +29,7 @@
     "react-mailchimp-subscribe": " ",
     "react-paginate": " ",
     "react-quill": " ",
-    "react-router-dom": "^6.13.0",
+    "react-router-dom": " ",
     "swiper": " ",
     "tailwind-merge": " ",
     "tailwindcss-animated": " ",
